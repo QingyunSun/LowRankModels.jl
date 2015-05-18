@@ -15,5 +15,7 @@ include("initialize.jl")
 include("cross_validate.jl")
 include("fit_dataframe.jl")
 #include("plot.jl")
+include("fitsym.jl")
+include("sgd.jl")
 
 end # module
